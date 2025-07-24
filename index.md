@@ -7,7 +7,7 @@ share-title: "Hypatia of Alexandria - Home"
 share-description: "Ancient scientist, educator, and philosopher from Alexandria. Passionate about mathematics, astronomy, and the pursuit of knowledge."
 support-promo-box: true
 cover-img:
-    - "assets/images/Hypatia-Teaching-Alexandria-watercolour-paper-Robert-Trewick.jpg"
+    - "assets/images/adeds.jpeg"
 ---
 
 # About me
