@@ -36,7 +36,8 @@ index_page: "about-me"
 # Navigation bar links
 navbar-links:
   Home: "/"
-  Publications: "Publications"
+  Publications: "Publications"  #tambahin tab lain, kalo ditambahin maka harus bikin file md nya untuk bisa atur mau isi apa di page tersebut
+  
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
@@ -96,7 +97,7 @@ plugins:
   
   
 keywords: "astronomy,philosophy,mathematics,galaxies,hypatia,astrolabe"
-
+# Buat bantu nyari kata kunci di google biar bisa munculin akun kita, bisa tambahin nama
 
 
 # Exclude from processing.
