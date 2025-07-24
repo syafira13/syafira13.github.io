@@ -22,9 +22,9 @@ When I’m not lecturing at the Museion or engaging in scholarly debate, I enjoy
 
 ## Connect with Me
 
-- 📧 [hypatia.alexandria@ista.ac.at](mailto:hypatia.alexandria@ista.ac.at)
+- 📧 [sputri.work@gmail.com](mailto:sputri.work@gmail.com)
 - [![ORCID logo](https://orcid.org/sites/default/files/images/orcid_16x16.png) 0000-0000-0000-0001](https://orcid.org/0000-0000-0000-0001)
-- [![GitHub logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/16px-Octicons-mark-github.svg.png) hypatiarules](https://github.com/hypatiarules)
+- [![GitHub logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/16px-Octicons-mark-github.svg.png) hypatiarules](https://github.com/syafira13)
 - 🏛 [School of Alexandria Archives](https://example.com/hypatia-archives)
 - 📜 [Collected Works](https://example.com/hypatia-works)
 - 🧠 [Neoplatonist Network](https://example.com/neoplatonism)
