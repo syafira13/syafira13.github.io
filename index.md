@@ -12,22 +12,20 @@ cover-img:
 
 # About me
 
-Greetings! I’m **Hypatia of Alexandria** (c. 360–415 CE), a philosopher, mathematician, and astronomer living in Roman Egypt. I lead the Neoplatonist school in Alexandria, where I teach mathematics, astronomy, and philosophy. My work builds on the legacies of thinkers like Ptolemy and Plotinus, and I strive to inspire others through reason, observation, and the pursuit of wisdom.
+Hi, I’m Syafira Putri — or just Fira. I’m from Indonesia and recently completed my bachelor’s degree in physics at Universitas Padjadjaran.
 
-I’ve edited and commented on seminal works such as *Ptolemy’s Almagest* and *Diophantus’ Arithmetica*, and I’ve developed instruments like the astrolabe and hydrometer with my students.
+Right now, I’m a scientific intern at the Institute of Science and Technology Austria (ISTA), where I work on stellar astrophysics using MESA, a stellar evolution code. Most of my work involves simulating how different stellar phenomena unfold over time and what they can tell us about the life cycles of stars.
 
-When I’m not lecturing at the Museion or engaging in scholarly debate, I enjoy stargazing and exploring the mathematical harmony of the cosmos.
+![Syafira Putri](assets/images/fira.jpeg)
 
-![Hypatia of Alexandria](assets/images/file-hypatia-by-julius-kronberg-1889-1608099105.jpg)
+Soon, I’ll be continuing my studies in Europe as an Erasmus Mundus Scholarship awardee, joining the Master’s program in Astrophysics and Space Science (MASS). It’s the next step in this journey of following my questions — wherever in the universe they may lead.
 
 ## Connect with Me
 
 - 📧 [sputri.work@gmail.com](mailto:sputri.work@gmail.com)
-!- [![ORCID logo](https://orcid.org/sites/default/files/images/orcid_16x16.png) 0000-0000-0000-0001](https://orcid.org/0000-0000-0000-0001)
 - [![GitHub logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/16px-Octicons-mark-github.svg.png) hypatiarules](https://github.com/syafira13)
 - 🏛 [Universitas Padjadjaran](https://www.unpad.ac.id/)
-! - 📜 [Collected Works](https://example.com/hypatia-works)
-! - 🧠 [Neoplatonist Network](https://example.com/neoplatonism)
+
 
 > “Reserve your right to think, for even to think wrongly is better than not to think at all.”
 
