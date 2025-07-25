@@ -23,7 +23,7 @@ Soon, I’ll be continuing my studies in Europe as an Erasmus Mundus Scholarship
 ## Connect with Me
 
 - 📧 [sputri.work@gmail.com](mailto:sputri.work@gmail.com)
-- [![GitHub logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/16px-Octicons-mark-github.svg.png) hypatiarules](https://github.com/syafira13)
+- [![GitHub logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/16px-Octicons-mark-github.svg.png) syafira13](https://github.com/syafira13)
 - 🏛 [Universitas Padjadjaran](https://www.unpad.ac.id/)
 
 
