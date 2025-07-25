@@ -4,7 +4,7 @@ layout: home
 title: "Syafira Putri"
 subtitle: Astrophysicst
 share-title: "Syafira Putri - Home"
-share-description: "Ancient scientist, educator, and philosopher from Alexandria. Passionate about mathematics, astronomy, and the pursuit of knowledge."
+share-description: "Early-career astrophysics enthusiast and physics graduate. Passionate about understanding stars and the universe through simulations and study."
 support-promo-box: true
 cover-img:
     - "assets/images/adeds.jpeg"
