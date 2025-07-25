@@ -3,7 +3,7 @@ layout: home
 
 title: "Syafira Putri"
 subtitle: Astrophysicst
-share-title: "Hypatia of Alexandria - Home"
+share-title: "Syafira Putri - Home"
 share-description: "Ancient scientist, educator, and philosopher from Alexandria. Passionate about mathematics, astronomy, and the pursuit of knowledge."
 support-promo-box: true
 cover-img:
@@ -23,11 +23,11 @@ When I’m not lecturing at the Museion or engaging in scholarly debate, I enjoy
 ## Connect with Me
 
 - 📧 [sputri.work@gmail.com](mailto:sputri.work@gmail.com)
-# - [![ORCID logo](https://orcid.org/sites/default/files/images/orcid_16x16.png) 0000-0000-0000-0001](https://orcid.org/0000-0000-0000-0001)
+!- [![ORCID logo](https://orcid.org/sites/default/files/images/orcid_16x16.png) 0000-0000-0000-0001](https://orcid.org/0000-0000-0000-0001)
 - [![GitHub logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/16px-Octicons-mark-github.svg.png) hypatiarules](https://github.com/syafira13)
 - 🏛 [Universitas Padjadjaran](https://www.unpad.ac.id/)
-# - 📜 [Collected Works](https://example.com/hypatia-works)
-# - 🧠 [Neoplatonist Network](https://example.com/neoplatonism)
+! - 📜 [Collected Works](https://example.com/hypatia-works)
+! - 🧠 [Neoplatonist Network](https://example.com/neoplatonism)
 
 > “Reserve your right to think, for even to think wrongly is better than not to think at all.”
 
